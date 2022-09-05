@@ -12,7 +12,7 @@ npm run serve
 
 ### Backend setup
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Run backend
