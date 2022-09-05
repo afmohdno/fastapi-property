@@ -10,6 +10,17 @@ npm install
 npm run serve
 ```
 
+### Backend setup
+```
+pip install requirements.txt
+```
+
+### Run backend
+```
+uvicorn api:app --reload
+```
+
+<!--
 ### Compiles and minifies for production
 ```
 npm run build
@@ -19,6 +30,6 @@ npm run build
 ```
 npm run test:unit
 ```
-
+-->
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
